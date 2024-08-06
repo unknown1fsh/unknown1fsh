@@ -1,4 +1,7 @@
-# I see everything, Carl. And in the end, you'll be the one working for me.
+# Welcome to My GitHub Profile.
+
+
+[![Watch the video](https://i.ibb.co/8mzCFLT/limitless.jpg)](https://www.youtube.com/watch?v=alMMyxtJ2fA)
 
 Hello! I'm [Selim Sercan Ç.], a passionate and experienced software developer specializing in full-stack development. Below, you'll find some insights into my coding activities and the technologies I frequently use.
 
