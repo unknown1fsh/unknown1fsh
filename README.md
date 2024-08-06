@@ -1,4 +1,4 @@
-# Welcome to My GitHub Profile
+# I see everything, Carl. And in the end, you'll be the one working for me.
 
 Hello! I'm [Selim Sercan Ç.], a passionate and experienced software developer specializing in full-stack development. Below, you'll find some insights into my coding activities and the technologies I frequently use.
 
