@@ -1,16 +1,23 @@
-## Hi there 👋
+# Welcome to My GitHub Profile
 
-<!--
-**unknown1fsh/unknown1fsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm [Selim Sercan Ç.], a passionate and experienced software developer specializing in full-stack development. Below, you'll find some insights into my coding activities and the technologies I frequently use.
 
-Here are some ideas to get you started:
+## My GitHub Statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Take a look at my GitHub statistics to get an overview of my contributions and most active repositories:
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=unknown1fsh&show_icons=true&theme=radical)
+
+## Most Used Languages
+
+This chart shows the languages I use most frequently in my projects. It provides a good indicator of my main skills and areas of expertise:
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unknown1fsh&layout=compact&theme=radical)
+
+## Profile Views
+
+Thank you for visiting my profile! Each view counts, and I appreciate your interest in my work:
+
+![Profile views](https://komarev.com/ghpvc/?username=unknown1fsh&color=brightgreen)
+
+Feel free to explore my repositories and reach out if you have any questions or if you're interested in collaborating on a project.
