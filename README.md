@@ -4,7 +4,7 @@
 
 Click! ⬇
 
-[![Watch the video](https://i.ibb.co/HYT3WdY/limitless.jpg)](https://www.youtube.com/watch?v=alMMyxtJ2fA)
+[![Watch the video](https://iili.io/37EDbQj.jpg)](https://www.youtube.com/watch?v=alMMyxtJ2fA)
 
 Hello! I'm [Selim Sercan Ç.], a passionate and experienced software developer specializing in full-stack development. Below, you'll find some insights into my coding activities and the technologies I frequently use.
 
