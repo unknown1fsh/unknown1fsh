@@ -6,7 +6,8 @@ Click! ⬇
 
 [![Watch the video](https://iili.io/37EDbQj.jpg)](https://www.youtube.com/watch?v=alMMyxtJ2fA)
 
-Hello! I'm [Selim Sercan Ç.], a passionate and experienced software developer specializing in full-stack development. Below, you'll find some insights into my coding activities and the technologies I frequently use.
+Hello!
+I'm a passionate software craftsman with a strong focus on full-stack development, blending clean architecture with practical engineering to build efficient, scalable, and modern applications. Below is a glimpse into the technologies I master and the coding principles that guide my work.
 
 ## My GitHub Statistics
 
