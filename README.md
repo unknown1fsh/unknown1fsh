@@ -9,8 +9,6 @@ Click! ⬇
 Hello!
 I'm a passionate software craftsman with a strong focus on full-stack development, blending clean architecture with practical engineering to build efficient, scalable, and modern applications. Below is a glimpse into the technologies I master and the coding principles that guide my work.
 
-![Uploading matrix.gif…]()
-
 ## My GitHub Statistics
 
 Take a look at my GitHub statistics to get an overview of my contributions and most active repositories:
