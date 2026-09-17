@@ -161,31 +161,19 @@ public record SeniorFullStackDeveloper(
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=unknown1fsh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2e9ef7&icon_color=2e9ef7&text_color=c9d1d9&cache_seconds=86400"/>
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="Profile Details"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown1fsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2e9ef7&text_color=c9d1d9&cache_seconds=86400"/>
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="Stats"/>
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="Repos Per Language"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=unknown1fsh&theme=tokyonight&hide_border=true&background=0D1117&stroke=2e9ef7&ring=2e9ef7&fire=2e9ef7&currStreakLabel=2e9ef7" alt="GitHub Streak Stats"/>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="Most Commit Language"/>
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="Productive Time"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=unknown1fsh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2e9ef7&line=2e9ef7&point=c9d1d9" alt="Contribution Graph"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=unknown1fsh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+  <img src="https://streak-stats.demolab.com/?user=unknown1fsh&theme=tokyonight&hide_border=true&background=0D1117&stroke=2e9ef7&ring=2e9ef7&fire=2e9ef7&currStreakLabel=2e9ef7" alt="GitHub Streak Stats"/>
 
 </div>
 
@@ -244,13 +232,6 @@ Project Structure:
 
 ---
 
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 📫 Connect With Me
 
 <div align="center">
@@ -272,7 +253,7 @@ Project Structure:
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/unknown1fsh/unknown1fsh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <div align="center">
