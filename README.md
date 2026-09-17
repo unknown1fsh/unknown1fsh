@@ -1,8 +1,12 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Selim%20Sercan%20%C3%87%C4%B1nar&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Senior%20Full%20Stack%20Java%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+</div>
+
 # 𝓌ℯ𝓁𝓁𝒸ℴ𝓂ℯ
 ## **𝙸 𝚜𝚎𝚎 𝚎𝚟𝚎𝚛𝚢𝚝𝚑𝚒𝚗𝚐, 𝙲𝚊𝚛𝚕. 𝙰𝚗𝚍 𝚒𝚗 𝚝𝚑𝚎 𝚎𝚗𝚍, 𝚢𝚘𝚞'𝚕𝚕 𝚋𝚎 𝚝𝚑𝚎 𝚘𝚗𝚎 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚏𝚘𝚛 𝚖𝚎.**
 
 <div align="center">
-  
+
 [![Watch the video](https://iili.io/37EDbQj.jpg)](https://www.youtube.com/watch?v=alMMyxtJ2fA)
 
 </div>
@@ -10,11 +14,11 @@
 ---
 
 <div align="center">
-  
+
 ### 👨‍💻 Senior Full Stack Java Developer | Spring Ecosystem Expert | Clean Code Advocate
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Building+Scalable+Enterprise+Applications;Spring+Boot+%7C+Microservices+%7C+MySQL;Clean+Architecture+%26+SOLID+Principles;Passionate+About+Code+Quality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Java+21+%7C+Spring+Boot+3+%7C+Microservices;Angular+%7C+React+Native+%7C+PostgreSQL;Clean+Architecture+%26+SOLID+Principles;Camunda+BPM+%7C+JasperReports+%7C+Docker;Code+is+Poetry%2C+Architecture+is+Art+%F0%9F%8E%A8" alt="Typing SVG" />
 </p>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=unknown1fsh&color=2e9ef7&style=for-the-badge)](https://github.com/unknown1fsh)
@@ -28,26 +32,37 @@
 ## 🚀 About Me
 
 ```java
-public class Developer {
-    
-    private String name = "Senior Full Stack Java Developer";
-    private String location = "Ankara, Turkey";
-    private List<String> passions = Arrays.asList(
-        "Building scalable enterprise applications",
-        "Clean code and SOLID principles",
-        "Mentoring and knowledge sharing",
-        "Continuous learning and improvement"
-    );
-    
-    public String[] getCurrentFocus() {
-        return new String[] {
-            "Microservices Architecture",
-            "Spring Cloud & Kubernetes",
-            "Design Patterns & Best Practices",
-            "Performance Optimization"
-        };
+public sealed interface Engineer permits SeniorFullStackDeveloper {}
+
+public record SeniorFullStackDeveloper(
+        String name,
+        String location,
+        List<String> passions
+) implements Engineer {
+
+    public static SeniorFullStackDeveloper of() {
+        return new SeniorFullStackDeveloper(
+                "Selim Sercan Çınar",
+                "Ankara, Turkey 🇹🇷",
+                List.of(
+                        "Building scalable enterprise applications",
+                        "Clean code & SOLID principles",
+                        "BPM-driven workflow automation",
+                        "Mentoring and knowledge sharing"
+                )
+        );
     }
-    
+
+    public Stream<String> currentFocus() {
+        return Stream.of(
+                "Java 21 & Spring Boot 3.x",
+                "Microservices & Spring Cloud",
+                "Angular + React Native cross-platform delivery",
+                "Camunda BPM & process orchestration",
+                "Performance tuning & production readiness"
+        );
+    }
+
     public void lifePhilosophy() {
         System.out.println("Code is poetry, architecture is art 🎨");
     }
@@ -58,26 +73,36 @@ public class Developer {
 
 ## 🛠️ Tech Stack & Expertise
 
+<div align="center">
+
+### ⚡ Core Arsenal
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,angular,ts,react,postgres,mysql,redis,mongodb,docker,git,github,postman,idea&perline=8" alt="Tech Stack Icons" />
+
+</div>
+
 <details open>
 <summary><b>🌟 Backend Development</b></summary>
 <br>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot_3.x-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![Camunda](https://img.shields.io/badge/Camunda_BPM-FC5D0D?style=for-the-badge&logo=camunda&logoColor=white)
+![JasperReports](https://img.shields.io/badge/JasperReports-1B6AC6?style=for-the-badge&logo=databricks&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Lombok](https://img.shields.io/badge/Lombok-BC4521?style=for-the-badge&logo=lombok&logoColor=white)
 
 **Core Competencies:**
 - ✅ RESTful API Design & Development
-- ✅ Microservices Architecture
-- ✅ Spring Cloud (Eureka, Gateway, Config)
-- ✅ Exception Handling & Validation
-- ✅ DTO Pattern & MapStruct
+- ✅ Microservices Architecture & Spring Cloud (Eureka, Gateway, Config)
+- ✅ BPM Workflow Automation with Camunda
+- ✅ Enterprise Reporting with JasperReports
+- ✅ Layered Architecture (Controller → Service → ServiceImpl → Repository)
 - ✅ Specification Pattern for Dynamic Queries
-- ✅ Layered Architecture (Controller → Service → Repository)
+- ✅ DTO Pattern & MapStruct
+- ✅ Centralized Exception Handling & Validation
 
 </details>
 
@@ -85,42 +110,48 @@ public class Developer {
 <summary><b>💾 Database & ORM</b></summary>
 <br>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 **Database Expertise:**
 - 📊 Complex SQL Query Optimization
 - 📊 Database Design & Normalization
-- 📊 Indexing Strategies
+- 📊 Indexing Strategies & Query Performance Tuning
 - 📊 Transaction Management
-- 📊 Query Performance Tuning
 
 </details>
 
 <details open>
-<summary><b>🔧 Tools & IDEs</b></summary>
+<summary><b>🎨 Frontend & Mobile</b></summary>
+<br>
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Frontend Principles:**
+- 🎯 Clean, maintainable component architecture
+- 🎯 Presentation-focused UI — business logic stays in the backend
+- 🎯 Cross-platform mobile delivery with React Native
+
+</details>
+
+<details open>
+<summary><b>🔧 Tools & DevOps</b></summary>
 <br>
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🎨 Frontend & Others</b></summary>
-<br>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </details>
 
@@ -129,7 +160,7 @@ public class Developer {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=unknown1fsh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2e9ef7&icon_color=2e9ef7&text_color=c9d1d9"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unknown1fsh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2e9ef7&text_color=c9d1d9"/>
@@ -137,13 +168,13 @@ public class Developer {
 </div>
 
 <div align="center">
-  
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=unknown1fsh&theme=tokyonight&hide_border=true&background=0D1117&stroke=2e9ef7&ring=2e9ef7&fire=2e9ef7&currStreakLabel=2e9ef7" alt="GitHub Streak Stats"/>
 
 </div>
 
 <div align="center">
-  
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=unknown1fsh&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2e9ef7&line=2e9ef7&point=c9d1d9" alt="Contribution Graph"/>
 
 </div>
@@ -153,7 +184,7 @@ public class Developer {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
+
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=unknown1fsh&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 </div>
@@ -170,16 +201,16 @@ public class Developer {
 ```yaml
 Clean Code:
   - Self-documenting code
-  - Meaningful variable names
+  - Meaningful, consistent naming
   - Single Responsibility Principle
-  
+
 SOLID:
-  - Design patterns implementation
-  - Dependency Injection
   - Interface-based programming
-  
+  - Dependency Injection
+  - Design patterns where they earn their place
+
 Best Practices:
-  - Exception handling strategies
+  - Centralized exception handling
   - DTO pattern usage
   - Service layer abstraction
 ```
@@ -190,21 +221,21 @@ Best Practices:
 ### 🏗️ Architecture
 ```yaml
 Layered Architecture:
-  Controller: API endpoints
-  Service: Business logic
+  Controller: API endpoints only
+  Service: Business logic & workflow
   Repository: Data access
-  
+
 Design Patterns:
   - Specification Pattern
   - Builder Pattern
   - Factory Pattern
-  - Singleton Pattern
-  
+  - Strategy Pattern
+
 Project Structure:
   - Base entity inheritance
   - Dedicated exception package
   - Enum management
-  - Client configuration
+  - Consistent package conventions
 ```
 
 </td>
@@ -224,10 +255,9 @@ Project Structure:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ssercanc/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:selimsercancinar@outlook.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/unknown1fsh?tab=repositories)
 
 </div>
 
@@ -239,12 +269,12 @@ Project Structure:
 
 **⭐ If you find my work interesting, feel free to star my repositories!**
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=2e9ef7&height=100&section=footer)
-
 </div>
-
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 </div>
